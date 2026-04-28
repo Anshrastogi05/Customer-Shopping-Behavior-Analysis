@@ -65,11 +65,6 @@ A retail company aims to leverage customer shopping data to:
 
 ---
 
-## 📸 Dashboard Preview
-![Dashboard](https://github.com/user-attachments/assets/77edad19-5ea9-4b60-93d6-1b6e16933d68)
-
----
-
 ## 📁 Project Structure
 
 ├── data/ # Raw dataset (CSV)
@@ -77,6 +72,7 @@ A retail company aims to leverage customer shopping data to:
 ├── sql/ # SQL analysis queries
 ├── dashboard/ # Power BI dashboard (.pbix)
 ├── report/ # Final report & presentation
+
 └── README.md
 
 
